@@ -1,0 +1,19 @@
+int[] numPoss2Cont = new int[9];
+        if(roll==2){numPoss2Cont[1]=2;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else if(roll==3){numPoss2Cont[0]=1;numPoss2Cont[1]=2;numPoss2Cont[2]=3;}
+        else{}
+        for(int i=0;i<numUp.length;i++){
+            if(numPoss2Cont!=null
+
+
+********TEMP CODE*********
+Possible code for the possibilities method
