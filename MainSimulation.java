@@ -1,33 +1,16 @@
 
 /**
- * Write a description of class MainSimulation here.
+ * Runs the main simulation for the game, so it contains a main method which
+ * constructs and then calls runSimulation
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Tucker Tavarone)
+ * @version (1/27/18)
  */
 public class MainSimulation
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class MainSimulation
-     */
-    public MainSimulation()
+    public static void main(String[] args)
     {
-        // initialise instance variables
-        x = 0;
-    }
-
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
+        ShutTheBox newGame = new ShutTheBox(); //new ShutTheBox object
+        newGame.runSimulation(); //starts a new game and runs the simulation
     }
 }
